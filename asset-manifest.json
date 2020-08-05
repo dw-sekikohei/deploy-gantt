@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-gantt/static/css/main.df980972.chunk.css",
+    "main.js": "/deploy-gantt/static/js/main.2dde4c71.chunk.js",
+    "main.js.map": "/deploy-gantt/static/js/main.2dde4c71.chunk.js.map",
+    "runtime-main.js": "/deploy-gantt/static/js/runtime-main.299a1e5a.js",
+    "runtime-main.js.map": "/deploy-gantt/static/js/runtime-main.299a1e5a.js.map",
+    "static/js/2.82eef4c6.chunk.js": "/deploy-gantt/static/js/2.82eef4c6.chunk.js",
+    "static/js/2.82eef4c6.chunk.js.map": "/deploy-gantt/static/js/2.82eef4c6.chunk.js.map",
+    "index.html": "/deploy-gantt/index.html",
+    "precache-manifest.931c50cb398ba22e408fde03ceae51dd.js": "/deploy-gantt/precache-manifest.931c50cb398ba22e408fde03ceae51dd.js",
+    "service-worker.js": "/deploy-gantt/service-worker.js",
+    "static/css/main.df980972.chunk.css.map": "/deploy-gantt/static/css/main.df980972.chunk.css.map",
+    "static/js/2.82eef4c6.chunk.js.LICENSE.txt": "/deploy-gantt/static/js/2.82eef4c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299a1e5a.js",
+    "static/js/2.82eef4c6.chunk.js",
+    "static/css/main.df980972.chunk.css",
+    "static/js/main.2dde4c71.chunk.js"
+  ]
+}
